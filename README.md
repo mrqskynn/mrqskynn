@@ -15,5 +15,5 @@ HTML · CSS · JavaScript · C# (.NET 8.0) · Web Development · Application Mai
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mrqskynn)  
+LinkedIn: [https://www.linkedin.com/in/mrqskynn](https://www.linkedin.com/in/mrqskynn)  
 Email: mrqskynn@gmail.com
