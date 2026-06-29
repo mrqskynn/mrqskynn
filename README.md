@@ -42,7 +42,4 @@ I build practical applications designed to streamline workflows, improve accessi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrqskynn)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrqskynn@gmail.com)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrqskynn&show_icons=true&theme=tokyonight&hide_border=true" alt="Marqus' GitHub Stats" />
-</p>
+
