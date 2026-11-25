@@ -1,45 +1,40 @@
-# Hi, I'm Marqus Kynan Borromeo
-### Web Systems & Software Developer
+## Profile
 
-I build practical applications designed to streamline workflows, improve accessibility, and solve real-world problems.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mrqskynn&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226473570%3Fu%3D11a0943acecade15b1f11bf74d9ade7f8de66c05%26v%3D4" alt="mrqskynn hero visual" />
+</p>
 
----
+**Marqus Kynan Borromeo** · Frontend or full-stack engineer
 
-### Tech Stack & Tools
+## About
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+IT student | Web dev &amp; app design | HTML, CSS, JS, C# (.NET 8.0)
 
-> Core Focus: Full-Stack Web Development | Application Maintenance | UI/UX Optimization
+- 📍 Based in **Carmona City, Cavite**
+- 👥 **10** followers · **16** following
 
----
+## Stack
 
-### Highlighted Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) `Dockerfile`
 
-#### PWD Automated Application System
-> A full-stack web application digitizing the PWD registration process.
-* **Stack:** React, Bootstrap, PHP, XAMPP
-* **Features:** Form validation, real-time status tracking, and a comprehensive admin dashboard for efficient CRUD operations.
+## Signals
 
-#### TaskMatrix Pomodoro
-> A high-utility Focus-Block Matrix productivity application.
-* **Stack:** HTML5, CSS3, Vanilla JavaScript
-* **Features:** Integrates a functional Pomodoro timer with an interactive Eisenhower Matrix to seamlessly categorize and track task urgency.
+<table>
+<tr><td align="center"><b>20</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>393</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-#### EventOrganiser
-> A structured event management platform engineered for seamless coordination.
-* **Stack:** .NET 8.0, HTML5, CSS3
-* **Features:** Clean architecture showcasing back-end event tracking and user workflows.
+## Projects
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=mrqskynn&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226473570%3Fu%3D11a0943acecade15b1f11bf74d9ade7f8de66c05%26v%3D4" alt="mrqskynn projects visual" />
+</p>
 
-### Connect With Me
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrqskynn)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrqskynn@gmail.com)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mrqskynn&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226473570%3Fu%3D11a0943acecade15b1f11bf74d9ade7f8de66c05%26v%3D4" alt="mrqskynn social visual" />
+</p>
 
+<a href="https://github.com/mrqskynn">GitHub</a>
 
+<p align="center"><sub>Marqus Kynan Borromeo · <a href="https://www.gitskins.com/readme-generator?template=community-mani-developer-portfolio-pz5g">Mani Developer Portfolio</a> template by <a href="https://www.gitskins.com/creators/tylerderdan1">@tylerderdan1</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
